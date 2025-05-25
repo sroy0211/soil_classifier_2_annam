@@ -1,0 +1,11 @@
+{
+    "metrics": {
+      "evaluation_metric": "Minimum F1-score",
+      "final_minimum_f1_score": 0.855,
+      "submission_distribution": {
+        "Non - Soil Images or Class 0": 722,
+        "Soil Images or Class 1": 245
+      }
+    }
+  }
+  
